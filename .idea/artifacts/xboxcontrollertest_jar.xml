@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="xboxcontrollertest:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/xboxcontrollertest_jar</output-path>
+    <root id="archive" name="xboxcontrollertest.jar">
+      <element id="module-output" name="xboxcontrollertest" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/XboxController.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/jaw.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
